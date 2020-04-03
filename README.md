@@ -1,3 +1,3 @@
 # SpringPractice
-There are normal Spring source code
-It is just MyStudyNote
+There are simple Spring source code.
+It is just MyStudyNote.
